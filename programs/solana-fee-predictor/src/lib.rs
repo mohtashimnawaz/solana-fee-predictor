@@ -3,7 +3,7 @@
 use anchor_lang::prelude::*;
 use std::mem::size_of;
 
-declare_id!("2rxxXjYNYng3My7ut9kN8NgNhVz9AA3wafR2UBMzdSiH");
+declare_id!("4YxE5GRA7UsNwLtpyQcL3F245F6te4Gg2BPAhMvWoKh5");
 
 #[program]
 pub mod solana_fee_predictor {
